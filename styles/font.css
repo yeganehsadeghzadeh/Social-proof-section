@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "LeagueSpartan-Bold";
+  src: url(../Fonts/LeagueSpartan-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: "LeagueSpartan-Light";
+  src: url(../Fonts/LeagueSpartan-Light.ttf);
+}
+@font-face {
+  font-family: "LeagueSpartan-Medium";
+  src: url(../Fonts/LeagueSpartan-Medium.ttf);
+}
+@font-face {
+  font-family: "LeagueSpartan-Regular";
+  src: url(../Fonts/LeagueSpartan-Regular.ttf);
+}
